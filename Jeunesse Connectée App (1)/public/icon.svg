@@ -1,0 +1,18 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" rx="128" fill="#87CEEB"/>
+  
+  <!-- Cross -->
+  <rect x="236" y="120" width="40" height="272" rx="8" fill="#FFFFFF"/>
+  <rect x="156" y="200" width="200" height="40" rx="8" fill="#FFFFFF"/>
+  
+  <!-- People icons -->
+  <circle cx="200" cy="360" r="28" fill="#FFD700"/>
+  <path d="M200 395 C175 395 165 405 165 420 L235 420 C235 405 225 395 200 395 Z" fill="#FFD700"/>
+  
+  <circle cx="256" cy="360" r="28" fill="#FFD700"/>
+  <path d="M256 395 C231 395 221 405 221 420 L291 420 C291 405 281 395 256 395 Z" fill="#FFD700"/>
+  
+  <circle cx="312" cy="360" r="28" fill="#FFD700"/>
+  <path d="M312 395 C287 395 277 405 277 420 L347 420 C347 405 337 395 312 395 Z" fill="#FFD700"/>
+</svg>
